@@ -1,7 +1,7 @@
 # Ethan Paek's First CS193 Homework
 
--Favorite Things About CS193
--Lead by students, not professors
+- Favorite Things About CS193
+- Lead by students, not professors
 
 
 ## Welcome to GitHub Pages
